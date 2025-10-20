@@ -1,3 +1,5 @@
 # Collect-Student-Information
 for now the outout is only from console
-[FILE](project-1/)
+...
+
+[FILE](project-1.js/)
